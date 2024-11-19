@@ -70,10 +70,3 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Rohith Mahadevan" src="https://github-profile-trophy.vercel.app/?username=rohithmahadev&theme=monokai&no-bg=true&margin-w=4&title=Commits,Repositories,Followers,PullRequest" /></a>
 </div>
 
----
-
-## 🐍 Activity Graph
-
-<p align="center">
-  <img src="https://github.com/rohithmahadev/rohithmahadevgit/blob/main/assets/github-activity-graph.svg">
-</p>
