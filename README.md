@@ -5,11 +5,13 @@
 
 <img align="right" alt="Coding" width="430" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg3dTI1d3RqdG5oazRtNjBxYnZqbWQ3c3ZleGFlM2Y5b2VzM2pmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
-- 🔭 I’m currently working on **Time Series Models, AI/ML Solutions, and Healthcare Analytics**  
-- 🌱 I’m currently learning **Generative AI, LLM Fine-Tuning, and MLOps Tools**  
-- 💬 Ask me about **Customer Analytics, Risk Analytics, NLP, and Time Series Analysis**  
-- 🏆 Founder of **Analytics Club @ Odette Business School**  
-- 📫 How to reach me: **mailrohithmahadevan@gmail.com**  
+- 🔭 I’m currently working on **Time Series Models, AI/ML Solutions, and Healthcare Analytics**
+- 🌱 I’m currently learning **Generative AI, LLM Fine-Tuning, and MLOps Tools**
+- 💬 Ask me about **Customer Analytics, Risk Analytics, NLP, and Time Series Analysis***
+- 🏆 Founder of Analytics Club @ **Odette Business School**
+- ✍️ I’ve published 7 AI and ML-related research papers and actively write articles on Medium
+- 🥇 Winner of the National Bank of Canada Case Competition - **1st Place**
+- 🌟 Passionate about leveraging data to drive business decisions and innovation
 - 🌐 Personal Website: [https://sites.google.com/view/rohithmahadevan/home](https://rohithmahadevan.dev)  
 
 ---
