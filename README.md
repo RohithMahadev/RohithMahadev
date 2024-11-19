@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **Generative AI, LLM Fine-Tuning, and MLOps Tools**  
 - 💬 Ask me about **Customer Analytics, Risk Analytics, NLP, and Time Series Analysis**  
 - 🏆 Founder of **Analytics Club @ Odette Business School**  
-- 📫 How to reach me: **rohith.mahadevan@gmail.com**  
-- 🌐 Personal Website: [rohithmahadevan.dev](https://rohithmahadevan.dev)  
+- 📫 How to reach me: **mailrohithmahadevan@gmail.com**  
+- 🌐 Personal Website: [https://sites.google.com/view/rohithmahadevan/home](https://rohithmahadevan.dev)  
 
 ---
 
@@ -29,14 +29,24 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  
+   <!-- <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" /> -->
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/-Kats-013243?style=flat-square&logo=python&logoColor=white" alt="Kats" />
+<img src="https://img.shields.io/badge/-Agile-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Agile" />
+<img src="https://img.shields.io/badge/-Gemini-FF4500?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/-BERT-181717?style=flat-square&logo=bert&logoColor=white" alt="BERT" />
+<img src="https://img.shields.io/badge/-SPSS-003DA5?style=flat-square&logo=ibm&logoColor=white" alt="SPSS" />
+<img src="https://img.shields.io/badge/-Prompt%20Engineering-FFD700?style=flat-square&logo=openai&logoColor=black" alt="Prompt Engineering" />
+
 </p>
 
 ---
