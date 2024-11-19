@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="430" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg3dTI1d3RqdG5oazRtNjBxYnZqbWQ3c3ZleGFlM2Y5b2VzM2pmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 - 🔭 I’m currently working on **AI solution for business**
-- 🌱 I’m currently learning **Generative AI, LLM Fine-Tuning, and MLOps Tools**
+- 🌱 I’m currently learning **LLMs and MLops**
 - 💬 Ask me about **Analytics, NLP, and Time Series Analysis**
 - 🏆 Founder of Analytics Club @ **Odette Business School**
 - ✍️ I write medium articles and publish research papers
