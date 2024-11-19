@@ -75,5 +75,5 @@
 ## 🐍 Activity Graph
 
 <p align="center">
-  <img src="https://github.com/rohithmahadevan/rohithmahadevan/blob/main/assets/github-activity-graph.svg">
+  <img src="https://github.com/rohithmahadev/rohithmahadevgit/blob/main/assets/github-activity-graph.svg">
 </p>
