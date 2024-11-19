@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithmahadevan&label=Profile%20views&color=0e75b6&style=flat" alt="Rohith Mahadevan" /> </p>
 
-<img align="right" alt="Coding" width="430" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="430" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDg3dTI1d3RqdG5oazRtNjBxYnZqbWQ3c3ZleGFlM2Y5b2VzM2pmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif>
 
 - 🔭 I’m currently working on **Time Series Models, AI/ML Solutions, and Healthcare Analytics**  
 - 🌱 I’m currently learning **Generative AI, LLM Fine-Tuning, and MLOps Tools**  
