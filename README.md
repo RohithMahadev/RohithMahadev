@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm ROHITH MAHADEVAN</h1>
-<h2 align="center">Masters in Business Data Analytics @ University of Windsor 🎓📊🍁</h2>
+<h2 align="center">Master of Management - Business Data Analytics @ University of Windsor 🎓📊🍁</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithmahadevan&label=Profile%20views&color=0e75b6&style=flat" alt="Rohith Mahadevan" /> </p>
 
-<img align="right" alt="Coding" width="430" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="430" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC.gif">
 
 - 🔭 I’m currently working on **Time Series Models, AI/ML Solutions, and Healthcare Analytics**  
 - 🌱 I’m currently learning **Generative AI, LLM Fine-Tuning, and MLOps Tools**  
