@@ -56,10 +56,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rohithmahadevan&theme=highcontrast"/>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Rohith Mahadevan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohithmahadevan&show_icons=true&count_private=true&theme=vision-friendly-dark&border=true" height="192px"/>
+    <img alt="Rohith Mahadevan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohithmahadev&show_icons=true&count_private=true&theme=vision-friendly-dark&border=true" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Rohith Mahadevan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithmahadevan&langs_count=8&layout=compact&theme=vision-friendly-dark&border=true" height="192px"/>
+    <img alt="Rohith Mahadevan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithmahadev&langs_count=8&layout=compact&theme=vision-friendly-dark&border=true" height="192px"/>
   </a>
 </div>
 
@@ -67,7 +67,7 @@
 
 <h2 align="left">🏆 Achievements:</h2>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Rohith Mahadevan" src="https://github-profile-trophy.vercel.app/?username=rohithmahadevan&theme=monokai&no-bg=true&margin-w=4&title=Commits,Repositories,Followers,PullRequest" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="Rohith Mahadevan" src="https://github-profile-trophy.vercel.app/?username=rohithmahadev&theme=monokai&no-bg=true&margin-w=4&title=Commits,Repositories,Followers,PullRequest" /></a>
 </div>
 
 ---
